@@ -3,6 +3,4 @@
 - 💐 im currently learning - rust, java, and gherkin.
 - 🌸 im looking to collaborate with - other western vocal synth devs!
 
-[![smeek's github stats](https://github-readme-stats.vercel.app/api?username=sme-ek&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
 #### i am not active on social media nor contact sites such as discord anymore - but i am still available if need be.
