@@ -3,4 +3,4 @@
 - 💐 im currently learning - rust, java, and gherkin.
 - 🌸 im looking to collaborate with - other western vocal synth devs!
 
-#### i am not active on social media nor contact sites such as discord anymore - but i am still available if need be.
+#### i am not active on social media nor contact sites such as discord anymore - but i am still available if need be. smeek#3733
