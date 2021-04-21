@@ -4,4 +4,4 @@
 - 🍋 i am confident in communicating in `日本語 & ENG`
 - 🌸 fun fact - `i'm currently studying for comptia a+`
 
-#### smeek#3733
+#### smeek#0001
