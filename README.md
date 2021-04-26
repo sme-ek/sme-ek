@@ -2,6 +2,5 @@
 - 🌷 im currently working on - too many things lol
 - 💐 im currently learning `raylib, beef, and java.`
 - 🍋 i am confident in communicating in `日本語 & ENG`
-- 🌸 fun fact - `i'm currently studying for comptia a+`
 
 #### smeek#0001
