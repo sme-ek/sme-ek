@@ -2,5 +2,6 @@
 - 🌷 im currently working on - too many things lol
 - 💐 im currently learning `php and raylib with beef`
 - 🍋 i am confident in communicating in `日本語 & ENG`
+<img src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/languages.svg">
+<img src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/overview.svg">
 
-![Metrics](https://metrics.lecoq.io/sme-ek?template=classic&repositories.affiliations=contributor&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&stars=1&activity=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=public&activity.timestamps=false&config.timezone=America%2FNew_York)
