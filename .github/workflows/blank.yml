@@ -1,50 +1,19 @@
-# See https://github.com/lowlighter/metrics for documentation
-# This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
-
 name: Metrics
 on:
-  schedule:
-    - cron: "0 0-23/4 * * *"
-  push:
-    branches:
-      - master
-      - main
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  github-metrics-personal:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-
-      - name: 🦑 Personal metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
-          plugin_notable: yes
-          config_order: base.header, isocalendar, languages, notable, topics
-
-      - name: 🦑 Personal metrics (anilist)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.personal.anilist.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.METRICS_TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_user: .smeek.login
           
       - name: 🦑 Personal metrics (music)
         if: ${{ success() || failure() }}
