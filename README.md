@@ -3,6 +3,8 @@
 - 💐 im currently learning `php and raylib with beef`
 - 🍋 i am confident in communicating in `日本語 & ENG`
 
+##### sundays are the day i'm most available to work
+
 <img src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/overview.svg">
 <img src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/languages.svg">
 
