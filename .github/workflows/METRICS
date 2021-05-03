@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+      - name: 🦑 Personal metrics (music)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.music.svg
+          plugin_music: yes
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.CLIENT_ID }}, ${{ secrets.CLIENT_SECRET }}, ${{ secrets.REFRESH_TOKEN }}"
