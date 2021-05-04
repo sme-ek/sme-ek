@@ -25,8 +25,6 @@ jobs:
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, ejs
-          plugin_languages_skipped: lowlighter
           plugin_languages_details: bytes-size, percentage
           plugin_topics: yes
           plugin_topics_limit: 0
@@ -40,6 +38,7 @@ jobs:
         with:
           filename: metrics.personal.anilist.svg
           token: NOT_NEEDED
+          plugin_anilist_user: smeek
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
