@@ -2,7 +2,9 @@
 
 ##### sundays are the day i'm most available to work
 
-<img src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/overview.svg">
-<img src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/languages.svg">
+<img align = "left" width = "400" src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/overview.svg">
+<img align = "right" width="400"  src="https://github.com/sme-ek/sme-ek/blob/main/metrics.personal.anilist.svg">
+
+<img align="left" width = "400" src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/languages.svg">
 
 
