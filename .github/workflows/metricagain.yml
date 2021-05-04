@@ -46,13 +46,3 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           
-      - name: Personal metrics (music)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          plugin_music: yes
-          plugin_music_provider: spotify # Use Spotify as provider
-          plugin_music_mode: playlist      # Set plugin mode
-          plugin_music_limit: 4          # Limit to 4 entries
-          plugin_music_played_at: yes    # Show timestamp (for spotify only)
-          plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/45XO0yrFbKqGyFblSm4zjN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
