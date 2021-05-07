@@ -6,3 +6,8 @@
 <img align="right" width = "400" src="https://raw.githubusercontent.com/sme-ek/test/92f24f0d2e7ff9e3d9a5653a61f1e1fd0043fe2d/generated/languages.svg">
 
 
+##### current workflow
+
+<img src="https://progress-bar.dev/50/?title=studio%20dulcet%20website%20rework">
+<img src="https://progress-bar.dev/5/?title=i%20wish%20you%20were%20here">
+<img src = "https://progress-bar.dev/5/?title=dulcet%20UTAU">
