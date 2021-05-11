@@ -38,7 +38,7 @@ jobs:
         with:
           filename: metrics.personal.anilist.svg
           token: NOT_NEEDED
-          plugin_anilist_user: smeek
+          plugin_anilist_user: MarcMorgado
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
