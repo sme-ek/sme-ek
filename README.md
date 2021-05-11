@@ -3,7 +3,7 @@
 ## sundays are the day i'm most available to work
 <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
 <img align="right" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/languages.svg">
-<img src = "https://github.com/sme-ek/sme-ek/blob/main/metrics.personal.anilist.svg">
+
 <br>
 <br>
 
