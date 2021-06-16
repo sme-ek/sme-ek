@@ -1,6 +1,6 @@
 ### hello! <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FnOSjhK6tcFHFe%2Fgiphy.gif&f=1&nofb=1" width="75px">
 
-## sundays are the day i'm most available to work
+## sunday is the day i'm most available to work
 <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
 <img align="right" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/languages.svg">
 
