@@ -20,6 +20,6 @@
 
 <img src = "https://progress-bar.dev/5/?title=dulcet%20UTAU">
 
-<img src = "https://i1.wp.com/getdrawings.com/free-icon-bw/discord-icon-size-24.png" width=10 height=10> smeek#0001
+<img src = "https://i1.wp.com/getdrawings.com/free-icon-bw/discord-icon-size-24.png" width=10 height=10> smeek#0194
 
 <img src = "https://iconarchive.com/download/i80441/uiconstock/socialmedia/Email.ico" width=10 height=10>  [smeek@studiodulcet.com](mailto:smeek@studiodulcet.com)
