@@ -12,7 +12,7 @@
 
 
 
-<img src="https://progress-bar.dev/95/?title=studio%20dulcet%20website%20rework"> < - waiting on iwywh info
+<img src="https://progress-bar.dev/100/?title=studio%20dulcet%20website%20rework">
 
 
 <img src="https://progress-bar.dev/5/?title=i%20wish%20you%20were%20here"> < - working on sprite sheets
