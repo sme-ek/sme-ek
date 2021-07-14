@@ -14,8 +14,9 @@
 
 <img src="https://progress-bar.dev/100/?title=studio%20dulcet%20website%20rework">
 
+<img src="https://progress-bar.dev/70/?title=rubyMod ">
 
-<img src="https://progress-bar.dev/5/?title=i%20wish%20you%20were%20here"> < - working on sprite sheets
+<img src="https://progress-bar.dev/5/?title=iwywh"> 
 
 
 <img src = "https://progress-bar.dev/5/?title=dulcet%20UTAU">
