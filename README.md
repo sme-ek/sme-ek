@@ -1,26 +1,8 @@
-### hello! <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FnOSjhK6tcFHFe%2Fgiphy.gif&f=1&nofb=1" width="75px">
 
-## sunday is the day i'm most available to work
 <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
 <img align="right" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/languages.svg">
 
-<br>
-<br>
-
-
-##### current workflow
 
 
 
-<img src="https://progress-bar.dev/100/?title=studio%20dulcet%20website%20rework">
 
-<img src="https://progress-bar.dev/70/?title=rubyMod ">
-
-<img src="https://progress-bar.dev/5/?title=iwywh"> 
-
-
-<img src = "https://progress-bar.dev/5/?title=dulcet%20UTAU">
-
-<img src = "https://i1.wp.com/getdrawings.com/free-icon-bw/discord-icon-size-24.png" width=10 height=10> smeek#0194
-
-<img src = "https://iconarchive.com/download/i80441/uiconstock/socialmedia/Email.ico" width=10 height=10>  [smeek@studiodulcet.com](mailto:smeek@studiodulcet.com)
