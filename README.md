@@ -1,2 +1,18 @@
 <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
-<img align="right" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/languages.svg">
+
+<br>
+<br>
+
+<div align = left>
+  <h2> stuff </h2>
+    <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=pink">
+    <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=pink">
+    <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=pink">
+    <img src="https://img.shields.io/badge/apache_maven-white?style=for-the-badge&logo=apachemaven&logoColor=pink">
+    <img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=pink">
+  <br>
+    <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=pink">
+    <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=pink">
+    <img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=pink">
+
+  </div>
