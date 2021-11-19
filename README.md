@@ -16,7 +16,6 @@
   </div>
   <div align = "center">
   <h2> contact </h2>
-    <img src="https://img.shields.io/badge/smeek1105-white?style=for-the-badge&logo=discord&logoColor=pink">
     <img src="https://img.shields.io/badge/smeek@nyansec.com-white?style=for-the-badge&logo=xmpp&logoColor=pink">
 
   </div>
