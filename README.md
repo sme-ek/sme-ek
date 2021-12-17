@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=pink">
   <br>
     <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=pink">
-    <img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=pink">
+    <img src="https://img.shields.io/badge/freeBSD-white?style=for-the-badge&logo=freeBSD&logoColor=pink">
     <img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=pink">
 
   </div>
