@@ -14,7 +14,7 @@
     <br>
   <br>
   
-  <h2> stuff </h2>
+  <h2> </h2>
     <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=pink">
     <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=pink">
     <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=pink">
