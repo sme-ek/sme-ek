@@ -2,6 +2,18 @@
 
 <div align = "center">
   <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
+  <img align = "right" width = "400" src = "https://raw.githubusercontent.com/sme-ek/sme-ek/main/profile-summary-card-output/github/1-repos-per-language.svg">  
+  <br>
+  <br>
+    <br>
+  <br>
+    <br>
+  <br>
+    <br>
+  <br>
+    <br>
+  <br>
+  
   <h2> stuff </h2>
     <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=pink">
     <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=pink">
@@ -17,6 +29,7 @@
   <div align = "center">
   <h2> contact </h2>
     <img src="https://img.shields.io/badge/smeek@nyansec.com-white?style=for-the-badge&logo=xmpp&logoColor=pink">
-
+   
+  
   </div>
   </div>
