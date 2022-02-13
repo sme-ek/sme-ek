@@ -2,7 +2,7 @@
 
 <div align = "center">
   <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
-  <img align = "right" width = "400" src = "https://raw.githubusercontent.com/sme-ek/sme-ek/main/profile-summary-card-output/github/1-repos-per-language.svg">  
+  <img align = "right" width = "400" src = "https://raw.githubusercontent.com/sme-ek/test/master/generated/languages.svg">  
   <br>
   <br>
     <br>
