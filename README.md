@@ -14,6 +14,9 @@
   <br>
     <br>
   <br>
+  <br>
+  <br>
+  <br>
     <img align = "left" width = "400" src = "https://raw.githubusercontent.com/sme-ek/test/master/generated/languages.svg">  
     <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=pink">
     <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=pink">
