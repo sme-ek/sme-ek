@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=debian&logoColor=orange">
     <img src="https://img.shields.io/badge/freeBSD-white?style=for-the-badge&logo=freeBSD&logoColor=purple">
     <img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=blue">
+    <br>
     i'm currently learning assembly
   </div>
   </div>
