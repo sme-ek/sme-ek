@@ -1,8 +1,8 @@
 
 
 <div align = "right">
-  <img align = "left" width = "400" src="https://github.com/sme-ek/test/blob/master/generated/overview.svg">
-    <img align = "left" width = "400" src = "https://raw.githubusercontent.com/sme-ek/test/master/generated/languages.svg">  
+  <img align = "left" width = "400" src="https://github.com/sme-ek/GitStats/blob/actions_branch/generated_images/overview.svg">
+    <img align = "left" width = "400" src = "https://github.com/sme-ek/GitStats/blob/actions_branch/generated_images/languages.svg">  
   <div align = "center">
     <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=green">
     <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=yellow">
