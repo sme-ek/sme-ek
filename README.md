@@ -11,3 +11,4 @@
     <img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=blue">
   </div>
   </div>
+i'm currently studying fortran
