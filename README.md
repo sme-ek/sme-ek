@@ -1,4 +1,6 @@
 
+![](https://anlucas.neocities.org/apple.gif)
+![](https://anlucas.neocities.org/apple_computer.gif)
 
 <div align = "right">
   <img align = "left" width = "400" src="https://github.com/sme-ek/GitStats/blob/actions_branch/generated_images/overview.svg">
